@@ -1,5 +1,5 @@
 ---
-title: "Predicting the Paycheck: What Factors Influence College Graduate Earnings?"
+title: "What Factors Influence College Graduate Earnings?"
 author: "Aiden Akbarov"
 date: "May 2026"
 output:
