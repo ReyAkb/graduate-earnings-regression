@@ -14,7 +14,7 @@ options(scipen = 999)
 # ------------------------------------------------------------
 # 1. DATA PREPARATION
 # ------------------------------------------------------------
-df <- data.frame(recent_grads)
+df <- data.frame('../data/recent-grads.csv')
 df <- df[complete.cases(df), ]   # Remove rows with missing values (Food Science)
 
 # ------------------------------------------------------------
