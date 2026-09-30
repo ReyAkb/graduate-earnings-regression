@@ -1,5 +1,5 @@
 # ============================================================
-# Aiden Akbarov | STA 4164 | University of Central Florida
+# Oybek Akbarov | STA 4164 | University of Central Florida
 # Project: What factors influence earnings of recent college graduates?
 # ============================================================
 
