@@ -1,7 +1,7 @@
 # What Factors Influence College Graduate Earnings?
 
 **Course:** STA 4164 – Statistical Methods III | University of Central Florida  
-**Author:** Aiden Akbarov  
+**Author:** Oybek Akbarov  
 **Grade:** 95/100  
 
 ---
