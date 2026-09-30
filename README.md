@@ -44,7 +44,6 @@ This project investigates what characteristics of a college major are associated
 ├── notebook/
 │   └── earnings_regression_analysis.Rmd       # R Markdown source
 │   └── earnings_regression_analysis.html      # Rendered R Markdown report
-├── python/
 │   └── earnings_regression_analysis.ipynb     # Python/Jupyter notebook
 ├── report/
 │   └── Akbarov_STA4164_Final_Report.pdf       # Full written report
