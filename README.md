@@ -2,7 +2,6 @@
 
 **Course:** STA 4164 – Statistical Methods III | University of Central Florida  
 **Author:** Oybek Akbarov  
-**Grade:** 95/100  
 
 ---
 
