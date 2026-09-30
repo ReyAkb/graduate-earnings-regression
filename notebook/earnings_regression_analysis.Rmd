@@ -1,6 +1,6 @@
 ---
 title: "What Factors Influence College Graduate Earnings?"
-author: "Aiden Akbarov"
+author: "Oybek Akbarov"
 date: "May 2026"
 output:
   html_document:
